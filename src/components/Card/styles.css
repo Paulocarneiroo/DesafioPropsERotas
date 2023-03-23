@@ -1,0 +1,19 @@
+.card{
+    height: 60px;
+    background-color: var(--color-grey);
+    display: flex;
+    align-items: center;
+    grid-gap: 20px;
+    padding-left: 20px;
+    font-size: 16px;
+}
+
+.items-card{
+    text-decoration: none;
+    color: #000000;
+}
+
+.item-actived{
+    font-weight: bold;
+}
+

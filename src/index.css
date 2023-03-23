@@ -1,0 +1,19 @@
+
+:root{
+  --color-blue: #2D28FF;
+  --color-grey: #C7C7C7;
+}
+
+html, body{
+  margin: 0px;
+  padding: 0px;
+}
+
+*{
+  box-sizing: border-box;
+  font-family: Inter, sans-serif;
+}
+
+
+
+
